@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: /page14611589.html
+Disallow: /header
+Disallow: /page14672413.html
+Disallow: /footer
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+Sitemap: http://sleep-well.tilda.ws/sitemap.xml
+Sitemap: http://sleep-well.tilda.ws/sitemap-store.xml
+Host: sleep-well.tilda.ws
